@@ -1,2 +1,2 @@
 # ders-a
-A 2D platformer made with Unity
+A 2D platformer made with Godot.
